@@ -2,6 +2,9 @@
 
 The is taken from (https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) which is a pytorch re-implement of the official [EfficientDet](https://github.com/google/automl/efficientdet) with SOTA performance in real time, original paper link: https://arxiv.org/abs/1911.09070
 
+# Social Distancing indicator video
+
+![](vid.gif)
 
 # Performance
 
